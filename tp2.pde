@@ -7,7 +7,6 @@ void setup() {
   movmarb=1250;
   movmarc=2300;
   creditofinal=600;
-  timer=2000;
   protagonistas= loadFont("Candara-Bold-48.vlw");
   nombres = loadFont("SansSerif.plain-25.vlw");
   mara= loadImage("marfondo.jpg");
